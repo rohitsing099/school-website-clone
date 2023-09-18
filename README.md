@@ -1,1 +1,1 @@
-# school-website-clone
+# school-website
